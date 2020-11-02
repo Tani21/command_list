@@ -157,12 +157,5 @@ IMP: git fetch + get merge = git pull
 
 
 
-doubt: pg 234 branch from stash
-pg 73-74 doubt, public project over emailpg148, upstream, git stash apply --index
-pg 128, 146,171-180,189, 193, 203,226-235,245, 254-260 
-
-
-
-
 
 
