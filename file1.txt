@@ -12,7 +12,7 @@ A single server contains all the versioned files, so that multiple users can acc
 can take place. the problem is that if the server goes down, then no one will be able to access any
 file.
 
-3. DISTRIBUTED VCS
+3. DISTRIBUTED Version Control System
 Users have access to the complete history of files, including all commits, as they can simply mirror the repository. since there can be several remote repositories of the same file, various people can contribute on the same project in their own way.
 
 ABOUT GIT
